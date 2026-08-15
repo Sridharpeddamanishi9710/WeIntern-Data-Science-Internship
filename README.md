@@ -299,14 +299,14 @@ Seaborn,
 Jupyter Notebook,
 Git and GitHub.
 
-# Internship Progress
+Internship Progress
 | Task   | Project                                     | Status       |
 | ------ | ------------------------------------------- | -----------  |
 | Task 1 | Titanic Dataset – Exploratory Data Analysis | ✅ Completed |
 | Task 2 | Movie Recommendation System                 | ✅ Completed |
 | Task 3 | House Price Prediction                      | ✅ Completed |
 
-# Author
+Author
 
 Sridhar Pedhamanishi
 
