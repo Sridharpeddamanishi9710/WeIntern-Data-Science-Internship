@@ -249,7 +249,7 @@ The project demonstrates practical application of data preprocessing, categorica
 ---
 
 # Repository Structure
-
+```text
 WeIntern-Data-Science-Internship/
 │
 ├── Task_1_EDA/
@@ -269,6 +269,7 @@ WeIntern-Data-Science-Internship/
 │   └── Housing.csv
 │
 └── README.md
+```
 
 # Overall Internship Skills Demonstrated:
 
@@ -308,5 +309,7 @@ Git and GitHub
 **Author**
 
 Sridhar Pedhamanishi
+
 B.Tech – Information Technology
+
 MVSR Engineering College
