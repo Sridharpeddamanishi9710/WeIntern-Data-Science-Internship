@@ -271,33 +271,33 @@ WeIntern-Data-Science-Internship/
 └── README.md
 ```
 
-# Overall Internship Skills Demonstrated:
+Overall Internship Skills Demonstrated:
 
 Through these tasks, the following skills were applied:
 
 Exploratory Data Analysis
-Data Cleaning
-Data Preprocessing
-Data Visualization
-Statistical Analysis
-Feature Engineering
-One-Hot Encoding
-Feature Scaling
-Machine Learning
-Linear Regression
-Model Evaluation
-RMSE and R²
-Content-Based Recommendation Systems
-TF-IDF Vectorization
-Cosine Similarity
-Python
-Pandas
-NumPy
-Scikit-learn
-Matplotlib
-Seaborn
-Jupyter Notebook
-Git and GitHub
+Data Cleaning,
+Data Preprocessing,
+Data Visualization,
+Statistical Analysis,
+Feature Engineering,
+One-Hot Encoding,
+Feature Scaling,
+Machine Learning,
+Linear Regression,
+Model Evaluation,
+RMSE and R²,
+Content-Based Recommendation Systems,
+TF-IDF Vectorization,
+Cosine Similarity,
+Python,
+Pandas,
+NumPy,
+Scikit-learn,
+Matplotlib,
+Seaborn,
+Jupyter Notebook,
+Git and GitHub.
 
 # Internship Progress
 | Task   | Project                                     | Status       |
@@ -306,7 +306,7 @@ Git and GitHub
 | Task 2 | Movie Recommendation System                 | ✅ Completed |
 | Task 3 | House Price Prediction                      | ✅ Completed |
 
-**Author**
+# Author
 
 Sridhar Pedhamanishi
 
