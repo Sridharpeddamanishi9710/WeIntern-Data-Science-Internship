@@ -6,7 +6,7 @@ This folder contains the projects, Jupyter Notebooks, datasets, and generated te
 
 ## 📂 Folder Structure & Projects
 
-### 1. Task 4: Sales Data Analysis Dashboard (`Task_4_Sales_Data_Analysis_Dashboard/`)
+### 1. Task 1: Sales Data Analysis Dashboard (`Task_4_Sales_Data_Analysis_Dashboard/`)
 * **Objective:** Clean, preprocess, and analyze transactional sales data to extract business trends and present insights through data visualization[cite: 1].
 * **Dataset:** Kaggle Sales Dataset (Initial: 9,994 records, 19 columns; Cleaned: 9,993 records after removing 1 duplicate)[cite: 1].
 * **Key Metrics & Findings:**
@@ -18,7 +18,7 @@ This folder contains the projects, Jupyter Notebooks, datasets, and generated te
 
 ---
 
-### 2. Task 5: Sentiment Analysis on Twitter Data (`Task_5_Sentiment_Analysis/`)
+### 2. Task 2: Sentiment Analysis on Twitter Data (`Task_5_Sentiment_Analysis/`)
 * **Objective:** Build an end-to-end natural language processing (NLP) pipeline to clean, preprocess, and classify tweet sentiments into *Positive*, *Neutral*, or *Negative* classes[cite: 2].
 * **Dataset:** Pre-collected Twitter dataset (Initial: 74,682 rows; Final cleaned dataset: 57,714 rows)[cite: 2].
 * **Methodology & Model:**
@@ -33,7 +33,7 @@ This folder contains the projects, Jupyter Notebooks, datasets, and generated te
 
 ---
 
-### 3. Task 6: Customer Segmentation Using Clustering (`Task_6_Customer_Segmentation/`)
+### 3. Task 3: Customer Segmentation Using Clustering (`Task_6_Customer_Segmentation/`)
 * **Objective:** Apply unsupervised machine learning (K-Means clustering) to segment customers based on behavioral and demographic attributes[cite: 3].
 * **Dataset:** Mall Customers Dataset (200 records, 5 columns)[cite: 3].
 * **Methodology:**
@@ -48,8 +48,8 @@ This folder contains the projects, Jupyter Notebooks, datasets, and generated te
 ---
 
 ## 🛠️ Technologies & Libraries Used
-* **Languages:** Python[cite: 1, 2, 3]
-* **Data Manipulation & Math:** Pandas, NumPy[cite: 1, 2, 3]
+* **Languages:** Python
+* **Data Manipulation & Math:** Pandas, NumPy
 * **Machine Learning & NLP:** Scikit-learn, NLTK[cite: 2, 3]
-* **Data Visualization:** Matplotlib, Seaborn[cite: 1, 2, 3]
-* **Environment:** Jupyter Notebook[cite: 1, 2, 3]
+* **Data Visualization:** Matplotlib, Seaborn
+* **Environment:** Jupyter Notebook
